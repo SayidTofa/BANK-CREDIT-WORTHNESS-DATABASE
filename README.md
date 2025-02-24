@@ -1,3 +1,22 @@
+## Table of Contents
+- [Project Description](#project-description)
+- [Project Objectives](#project-objectives)
+  - [Customer Management](#customer-management)
+  - [Loan Processing & Approval](#loan-processing--approval)
+  - [Repayment Tracking](#repayment-tracking)
+  - [Financial Insights](#financial-insights)
+- [Key Insights](#key-insights)
+  - [Customer Credit History](#customer-credit-history)
+  - [Loan Repayment Patterns](#loan-repayment-patterns)
+  - [Account Type Analysis](#account-type-analysis)
+- [Recommendations](#recommendations)
+  - [Strengthen Credit Assessment](#strengthen-credit-assessment)
+  - [Improve Loan Recovery Strategies](#improve-loan-recovery-strategies)
+  - [Enhance Customer Segmentation](#enhance-customer-segmentation)
+  - [Automate Risk Alerts](#automate-risk-alerts)
+  - [Encourage Savings Culture](#encourage-savings-culture)
+
+
 Project: Bank Loan Management System
 ## Project Description
 The Bank Loan Management System is designed for FM Investment Banking to efficiently manage customer accounts, credit history, loan processing, and repayments. The database consists of structured tables that store customer details, loan applications, approvals, and repayment tracking, ensuring smooth financial operations and risk assessment.
